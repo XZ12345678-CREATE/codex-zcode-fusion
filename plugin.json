@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "codex-zcode-fusion",
+  "version": "0.2.0",
+  "description": "Codex plans and reviews; the installed ZCode desktop agent executes tasks in staged copies."
+}

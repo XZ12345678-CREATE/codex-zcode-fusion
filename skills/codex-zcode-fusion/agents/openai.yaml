@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex → ZCode Fusion"
+  short_description: "Codex 规划与验收，ZCode 在任务副本中执行编码和修改"
+  default_prompt: "Use $codex-zcode-fusion to plan this task, have ZCode implement it, and independently review and verify the changes."
